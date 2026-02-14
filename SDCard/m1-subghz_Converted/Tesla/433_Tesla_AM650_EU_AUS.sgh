@@ -1,6 +1,5 @@
 Filetype: M1 SubGHz NOISE
 Version: 0.8
 Frequency: 433920000
-Preset: FuriHalSubGhzPresetOok650Async
 Modulation: OOK
 Data: +131 266 +165 1956 +101 332 +263 132 +431 200 +397 200 +361 98 +32700 12474 +131 298 +265 166 +131 860 +133 132 +133 132 +827 98 +691
