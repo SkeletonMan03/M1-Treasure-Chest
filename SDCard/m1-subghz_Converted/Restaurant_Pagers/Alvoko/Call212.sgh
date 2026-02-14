@@ -1,0 +1,5 @@
+Filetype: M1 SubGHz NOISE
+Version: 0.8
+Frequency: 434075000
+Preset: FuriHalSubGhzPresetOok650Async
+Modulation: OOK
